@@ -14,10 +14,4 @@ it works perfectly and handles all the errors!
 
 
 tkinter is insane
-#� �C�S�T�A�-�s�u�m�m�e�r�
-�
-�#� �C�S�T�A�-�s�u�m�m�e�r�
-�
-�#� �C�S�T�A�-�s�u�m�m�e�r�
-�
-�
+
